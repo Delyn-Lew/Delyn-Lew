@@ -12,6 +12,10 @@
   <img height="30" style="padding:5px" src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E"/>
   <img height="30" style="padding:5px" src="https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white"/>
   <img height="30" style="padding:5px" src="https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white"/>
+  <img height="30" style="padding:5px" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"/>
+  <img height="30" style="padding:5px" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white"/>
+  	
+
 </p>
 
 ### Frameworks, libraries and databases
