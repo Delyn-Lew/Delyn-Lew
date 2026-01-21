@@ -22,6 +22,7 @@
 
 <p align="center">
   <img height="30" style="padding:5px" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"/>  
+  <img height="30" style="padding:5px" src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?logo=postgresql&logoColor=white"/>
   <img height="30" style="padding:5px" src="https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB"/>
   <img height="30" style="padding:5px" src="https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB"/>
   <img height="30" style="padding:5px" src="https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white"/>
