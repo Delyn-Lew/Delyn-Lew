@@ -14,7 +14,7 @@
   <img height="30" style="padding:5px" src="https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white"/>
   <img height="30" style="padding:5px" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"/>
   <img height="30" style="padding:5px" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white"/>
-  	
+  <img height="30" style="padding:5px" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"/>	
 
 </p>
 
